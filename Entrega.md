@@ -3,7 +3,7 @@ TOP500 & me: Comparativo de Arquiteturas Paralelas
 Característica	                             |    Computador no TOP500	   |     Meu computador     
 |--------------------------------------------|-----------------------------|-----------------------
 Nome/Título	                                 |           Fênix	           |    Acer Aspire ES 15   
-Imagem (foto, diagrama, screenshot, etc.)		 |  https://www.techtudo.com.br/noticias/2019/06/conheca-o-fenix-supercomputador-da-petrobras-entre-os-maiores-do-mundo.ghtml)                                 |                                   
+Imagem (foto, diagrama, screenshot, etc.)		 |                            |                                   
 Classificação de Flynn	                     |            MIMD	           |          SIMD         
 Memória: compartilhada, distribuída ou ambas?|           Ambas             |  	 Compartilhada      
 Número total de núcleos de processamento	   |             4	             |           4           
