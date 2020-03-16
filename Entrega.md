@@ -3,7 +3,7 @@ TOP500 & me: Comparativo de Arquiteturas Paralelas
 Característica	                             |    Computador no TOP500	   |     Meu computador     
 |--------------------------------------------|-----------------------------|-----------------------
 Nome/Título	                                 |           Fênix	           |    Acer Aspire ES 15   
-Imagem (foto, diagrama, screenshot, etc.)		 |                            |                                   
+Imagem (foto, diagrama, screenshot, etc.)		 |    ![conteudo23407](https://user-images.githubusercontent.com/38120149/76808521-cb498500-67c6-11ea-936f-712be85f0444.jpg)                                           |![download](https://user-images.githubusercontent.com/38120149/76808518-c97fc180-67c6-11ea-9253-aba4e8b30a7f.jpg)                               
 Classificação de Flynn	                     |            MIMD	           |          SIMD         
 Memória: compartilhada, distribuída ou ambas?|           Ambas             |  	 Compartilhada      
 Número total de núcleos de processamento	   |             4	             |           4           
