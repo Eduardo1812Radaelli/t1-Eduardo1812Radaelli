@@ -15,6 +15,6 @@ Memória total	                               |           55.296 GB         |   
 Tipo(s) de interconexão entre os             
 núcleos/processadores	                       |        Infiniband EDR       |           X           |
 Desempenho Linpack	                         |        1.836 TFlop / s      |                       |
-### Referências
+### Referência 
 - Fornecedor de Serviços do site. Fênix - SYS-1029GQ-TRT, Xeon Gold 5122 4C 3.6GHz, Infiniband EDR, NVIDIA Tesla V100. https://www.top500.org/system/179681.
 - Empresa que fabrica o processador(Intel). Processador Intel® Celeron® N3450. https://ark.intel.com/content/www/br/pt/ark/products/95596/intel-celeron-processor-n3450-2m-cache-up-to-2-2-ghz.html.
