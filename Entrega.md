@@ -1,10 +1,11 @@
 TOP500 & me: Comparativo de Arquiteturas Paralelas
 --------------------------------------------------
 
-Característica	Computador no TOP500	Meu computador
-Nome/Título	Fênix	 Acer Aspire ES 15
-Imagem (foto, diagrama, screenshot, etc.)		
-Classificação de Flynn	MIMD	SIMD
+Característica	    |    Computador no TOP500	   |     Meu computador    |
+-------------------------------------------------------------------------
+Nome/Título	        |           Fênix	           |    Acer Aspire ES 15  |  
+Imagem (foto, diagrama, screenshot, etc.)		|   |   |
+Classificação de Flynn	|MIMD	 |   SIMD |
 Memória: compartilhada, distribuída ou ambas?	Ambas	Compartilhada
 Número total de núcleos de processamento	4	4
 Fabricante e modelo do(s) processador(es)	Intel Xeon Gold 5122 4C 3.6GHz	Intel Celeron QuadCore N3450     
