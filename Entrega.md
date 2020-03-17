@@ -1,3 +1,4 @@
+Eduardo Coppetti Radaelli
 TOP500 & me: Comparativo de Arquiteturas Paralelas
 --------------------------------------------------
 Característica	                             |    Computador no TOP500	   |     Meu computador     
